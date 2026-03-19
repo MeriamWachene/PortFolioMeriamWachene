@@ -1,0 +1,14 @@
+- Building...
+
+Application bundle generation failed. [5.215 seconds]
+
+X [ERROR] Could not resolve "assets/loader-bg.png" [plugin angular-css-resource]
+
+    angular:styles/component:css;1a9a7559ef854a68718b89277c74d4ffb1e50a3df2da8f6beac66ebe7214329b;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/loader/loader.component.ts:18:22:
+      18 │       background: url('assets/loader-bg.png') center/cover no-repeat;
+         ╵                       ~~~~~~~~~~~~~~~~~~~~~~
+
+  You can mark the path "assets/loader-bg.png" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+  Preprocessor stylesheets may not show the exact file location of the error.
+
+

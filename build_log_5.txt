@@ -1,0 +1,13 @@
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-PJLBN2Q6.js      | main          | 328.93 kB |                81.21 kB
+polyfills-FFHMD2TL.js | polyfills     |  33.71 kB |                11.02 kB
+styles-PBC3BMHX.css   | styles        |   4.29 kB |                 1.24 kB
+
+                      | Initial total | 366.93 kB |                93.46 kB
+
+Output location: C:\Users\wache\Downloads\meriam-portfolio-angular\meriam-portfolio\dist\meriam-portfolio
+
+Application bundle generation complete. [6.444 seconds]
+

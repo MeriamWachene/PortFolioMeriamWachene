@@ -1,0 +1,50 @@
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-PJLBN2Q6.js      | main          | 328.93 kB |                81.21 kB
+polyfills-FFHMD2TL.js | polyfills     |  33.71 kB |                11.02 kB
+styles-PBC3BMHX.css   | styles        |   4.29 kB |                 1.24 kB
+
+                      | Initial total | 366.93 kB |                93.46 kB
+
+Application bundle generation failed. [5.963 seconds]
+
+▲ [WARNING] angular:styles/component:css;87aab5dcb459cd6002a38ab86ae6ec20168305d2cbc562c7bb38ee297b786963;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/navbar/navbar.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 1.04 kB with a total of 3.04 kB.
+
+
+▲ [WARNING] angular:styles/component:css;783afe5010627eb099bbeca4018f9865a35132989f4bcff3d7a04fb71f421d49;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/hero/hero.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 6.32 kB with a total of 8.32 kB.
+
+
+▲ [WARNING] angular:styles/component:css;5bfe3eda09779c99c68b4bd1bd33f2bce0976028b68e925a93ef6d7ac7478fde;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/education/education.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 2.07 kB with a total of 4.07 kB.
+
+
+▲ [WARNING] angular:styles/component:css;d3f60874fc08a8438c8baad1174e564f56bb75f39512ff35df7467e66f09df3e;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/experience/experience.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 6.34 kB with a total of 8.34 kB.
+
+
+▲ [WARNING] angular:styles/component:css;4722037fbda03658f06006ef4b265676a6d3a1cce90e000dad11eaa48e5708fe;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/projects/projects.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 4.13 kB with a total of 6.13 kB.
+
+
+▲ [WARNING] angular:styles/component:css;586f7d73ed44d193fe8fab20a717908c66a6366a8082a3acc8f97419342fe23f;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/certifications/certifications.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 1.55 kB with a total of 3.55 kB.
+
+
+▲ [WARNING] angular:styles/component:css;01d24962d740e1e12ebd80d11913438b80c9fdbb2dcb1f906d1a21a857e0f4c0;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/languages/languages.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 30 bytes with a total of 2.03 kB.
+
+
+▲ [WARNING] angular:styles/component:css;e5361e5567a05c08129b0c3a42cba381ce007789e8907096d83963ce1c7662c7;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/contact/contact.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 780 bytes with a total of 2.76 kB.
+
+
+▲ [WARNING] angular:styles/component:css;787fadc0e9fce77468bfa59e701091b652543a09118414e0db75fcbbf8400149;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/loader/loader.component.ts exceeded maximum budget. Budget 2.00 kB was not met by 830 bytes with a total of 2.81 kB.
+
+
+X [ERROR] angular:styles/component:css;783afe5010627eb099bbeca4018f9865a35132989f4bcff3d7a04fb71f421d49;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/hero/hero.component.ts exceeded maximum budget. Budget 4.00 kB was not met by 4.32 kB with a total of 8.32 kB.
+
+
+X [ERROR] angular:styles/component:css;5bfe3eda09779c99c68b4bd1bd33f2bce0976028b68e925a93ef6d7ac7478fde;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/education/education.component.ts exceeded maximum budget. Budget 4.00 kB was not met by 72 bytes with a total of 4.07 kB.
+
+
+X [ERROR] angular:styles/component:css;d3f60874fc08a8438c8baad1174e564f56bb75f39512ff35df7467e66f09df3e;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/experience/experience.component.ts exceeded maximum budget. Budget 4.00 kB was not met by 4.34 kB with a total of 8.34 kB.
+
+
+X [ERROR] angular:styles/component:css;4722037fbda03658f06006ef4b265676a6d3a1cce90e000dad11eaa48e5708fe;C:/Users/wache/Downloads/meriam-portfolio-angular/meriam-portfolio/src/app/components/projects/projects.component.ts exceeded maximum budget. Budget 4.00 kB was not met by 2.13 kB with a total of 6.13 kB.
+
+
